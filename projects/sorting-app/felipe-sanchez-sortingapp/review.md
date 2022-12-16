@@ -28,7 +28,8 @@ Date:   Wed Dec 14 00:08:44 2022 -0500
 ## Notes
 
 * A `README.md` file. This file is well documented.
-* A warnning appears when maven tests are executed ![image-20221216101608239](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216101608239.png)
-* When maven is cleaned and the execute again with this command: `mvn test -Dmaven.compiler.showDeprecation=true` . This is part of the output:![image-20221216101925743](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216101925743.png)
-* Junit is correct:![image-20221216102240847](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216102240847.png)
-* Some test where created ![image-20221216102542146](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216102542146.png)
+* Dependencies:![image-20221216115826054](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216115826054.png)
+* Test ![image-20221216115931722](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216115931722.png)
+* Properties: ![image-20221216120130131](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216120130131.png)
+* Executable jar![image-20221216120255358](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216120255358.png)
+* 
