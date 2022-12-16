@@ -27,6 +27,7 @@ Date:   Mon Dec 12 15:52:54 2022 -0500
 
 ## Notes
 
+* No `README.md` file. 
 * A warnning appears when maven tests are executed ![image-20221216101608239](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216101608239.png)
 * When maven is cleaned and the execute again with this command: `mvn test -Dmaven.compiler.showDeprecation=true` . This is part of the output:![image-20221216101925743](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216101925743.png)
 * Junit is correct:![image-20221216102240847](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221216102240847.png)
