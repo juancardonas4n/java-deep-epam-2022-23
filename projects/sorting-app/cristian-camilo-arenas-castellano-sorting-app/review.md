@@ -28,5 +28,5 @@ Date:   Mon Dec 19 13:29:04 2022 -0500
 * Properties: ![image-20221219134900261](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221219134900261.png)
 * Jar Executable ![image-20221219135122279](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221219135122279.png)
 * Parameterized Test ![image-20221219135251404](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221219135251404.png)
-* Uses two different 
+* Uses two different styles of programming see at App and test![image-20221219135705343](/home/juancardona/Workbench/java-deep-epam-2022-23/images/image-20221219135705343.png)
 
