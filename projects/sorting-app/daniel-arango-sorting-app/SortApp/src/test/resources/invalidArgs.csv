@@ -1,0 +1,10 @@
+args,expectedErrorMessage
+1 2 3 4 5 6 7 8 9 10 11,Over 10 arguments
+2147483648 1 2 3 4 5,Arguments must be valid integers
+9999999999999999999999 2 4 5 1,Arguments must be valid integers
+1.0 2.1 3 1 3,Arguments must be valid integers
+1.3,Arguments must be valid integers
+9999999999999999999999 1 2 3 4 5 6 7 8 9 10,Over 10 arguments
+14543 432 1 3.5 42 94,Arguments must be valid integers
+One Two Three Four Five,Arguments must be valid integers
+1 2 53 -5 five,Arguments must be valid integers
