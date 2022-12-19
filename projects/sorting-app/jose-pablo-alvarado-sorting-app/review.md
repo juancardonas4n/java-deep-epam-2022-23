@@ -7,8 +7,6 @@
 commit f5a7e1ca22002a20d08d6cb4f4189f99f3aa2dd9
 Author: Ppabl0 <alvarado.josepablo.mx@gmail.com>
 Date:   Mon Dec 12 23:43:25 2022 -0600
-
-    added first version
 ```
 
 
