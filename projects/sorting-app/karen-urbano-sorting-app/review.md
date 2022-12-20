@@ -15,11 +15,11 @@ Date:   Mon Dec 19 16:11:28 2022 -0500
 | **Configuration of the dependency**                  | There were added two dependecies more: `common-io`(`2.11.0`) and `maven-assembly-plugin`(`3.4.2`). This last one is unnecesary because maven always used plugin when it find out a reference. | 3      |
 | **The version of the dependency or property**        | There is not evidence of its use                             | 0      |
 | **The presence of unit tests**                       | There are unit test: `SortingTest`. There were executed and passed. | 3      |
-| **The coverage of corner cases in unit tests**       | Input is divide in: Empty, Single, Invalid Input, Less than 10 elements,  Ten Elements, More than ten elements | 12     |
+| **The coverage of corner cases in unit tests**       | Input is divide in: Empty, Single, Invalid Input, Less than 10 elements,  Ten Elements, More than ten elements | 9      |
 | **The use of Maven properties in the configuration** | There are properties that can be in conflict with other versions | 3      |
 | **The presence of the runnable jar**                 | There is an execution                                        | 3      |
-| **The use of parameterized unit tests**              |                                                              | 0      |
-| **Total**                                            |                                                              | 0      |
+| **The use of parameterized unit tests**              | There is a parameterized tests                               | 3      |
+| **Total**                                            |                                                              | 24     |
 
 ## Notes
 
