@@ -1,6 +1,6 @@
 # María Paulina García
 
-* email: `
+* email: `mariapaulinagarciav@gmail.com`
 * repository:
 * Current commit:
 ```shell
@@ -18,7 +18,7 @@ Date:   Mon Dec 19 23:47:36 2022 +0000
 | **The coverage of corner cases in unit tests**       | The input data is partitioned in several cases: Null, empty, Ten elements, more than ten elements | 12     |
 | **The use of Maven properties in the configuration** | There properties defined.                                    | 3      |
 | **The presence of the runnable jar**                 | There is a plugin configure to manage the jar executable, but that is harmless, because the executable class doesn't exists. | 0      |
-| **The use of parameterized unit tests**              |                                                              | 3      |
+| **The use of parameterized unit tests**              | There are parameterized test.                                | 3      |
 | **Total**                                            |                                                              | 27     |
 
 ## Notes

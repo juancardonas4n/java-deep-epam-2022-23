@@ -12,14 +12,14 @@ Date:   Sun Dec 18 11:15:40 2022 -0500
 ## Criterias
 | Criteria                                             | Description                                                  | Points |
 | :--------------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Configuration of the dependency**                  | There is a dependency for `common-io`, version: `2.11.0`     | 3      |
-| **The version of the dependency or property**        | The dependency `common-io`is not used on the project.        | 0      |
+| **Configuration of the dependency**                  | There is a dependency for `common-io`, version: `2.11.0`.    | 3      |
+| **The version of the dependency or property**        | The dependency `common-io` is not used on the project.       | 0      |
 | **The presence of unit tests**                       | There are many cases test classes: `AboveMinBoundarySimpleSortTest`, `BelowMaxSimpleSortTest`, `IllegalInputsSimpleSortTest`, `MaxBoundarySimpleSortTest`, `MinBoundarySimpleSortTest`, `NominalValueSimpleSortTest`, `OutBoundarySimpleSortTest`. | 3      |
-| **The coverage of corner cases in unit tests**       | All is cover with all: `AboveMinBoundarySimpleSortTest`, `BelowMaxSimpleSortTest`, `IllegalInputsSimpleSortTest`, `MaxBoundarySimpleSortTest`, `MinBoundarySimpleSortTest`, `NominalValueSimpleSortTest`, `OutBoundarySimpleSortTest`. | 12     |
-| **The use of Maven properties in the configuration** | There are properties defined for indicate with source and target java were using. | 3      |
-| **The presence of the runnable jar**                 | There is properties for define a executable jar              | 3      |
-| **The use of parameterized unit tests**              |                                                              | 0      |
-| **Total**                                            |                                                              | 0      |
+| **The coverage of corner cases in unit tests**       | All are covered with all: `AboveMinBoundarySimpleSortTest`, `BelowMaxSimpleSortTest`, `IllegalInputsSimpleSortTest`, `MaxBoundarySimpleSortTest`, `MinBoundarySimpleSortTest`, `NominalValueSimpleSortTest`, `OutBoundarySimpleSortTest`. | 12     |
+| **The use of Maven properties in the configuration** | There are properties defined to indicate with source and target java were used. | 3      |
+| **The presence of the runnable jar**                 | There are properties for defining an executable jar.         | 3      |
+| **The use of parameterized unit tests**              | Almost all tests are parameterized.                          | 3      |
+| **Total**                                            |                                                              | 27     |
 
 ## Notes
 

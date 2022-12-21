@@ -12,14 +12,14 @@ Date:   Fri Dec 16 21:08:24 2022 +0000
 ## Criterias
 | Criteria                                             | Description                                                  | Points |
 | :--------------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Configuration of the dependency**                  | There is not extra dependencies                              | 0      |
-| **The version of the dependency or property**        | If there is no extra dependencies this point fails           | 0      |
-| **The presence of unit tests**                       | There is unit test. There are two tests: `SortingparameterizedTest` and `SortingTest` | 3      |
-| **The coverage of corner cases in unit tests**       | It divide the test on partitions based on the input: Emtpy, Single, exactly 10 and nothing ele | 9      |
+| **Configuration of the dependency**                  | There are no extra dependencies                              | 0      |
+| **The version of the dependency or property**        | If there are no extra dependencies this point fails          | 0      |
+| **The presence of unit tests**                       | There is a unit test. There are two tests: `SortingparameterizedTest` and `SortingTest` | 3      |
+| **The coverage of corner cases in unit tests**       | It divides the test into partitions based on the input: Empty, Single, exactly 10, and more than ten elements. | 12     |
 | **The use of Maven properties in the configuration** | Using properties to define the source and target.            | 3      |
-| **The presence of the runnable jar**                 | There is a definition of its corresponding pluging           | 3      |
+| **The presence of the runnable jar**                 | There is a definition of its corresponding plugin            | 3      |
 | **The use of parameterized unit tests**              | It used parameterized test. They are defined on `SortingparameterizedTest` | 3      |
-| **Total**                                            |                                                              | 21     |
+| **Total**                                            |                                                              | 24     |
 
 ## Notes
 
