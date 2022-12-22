@@ -12,12 +12,12 @@ Date:   Mon Dec 19 14:47:13 2022 -0500
 ## Criterias
 | Criteria                                             | Description                                                  | Points |
 | :--------------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Configuration of the dependency**                  | There are not new dependencies added, There are a copy of Junit dependency. This causes a warning when the command `mvn compile` is launched. | 0      |
-| **The version of the dependency or property**        | As there are not new dependency, this doesn't apply.         | 0      |
+| **Configuration of the dependency**                  | There are not new dependencies added, There is a copy of the Junit dependency. This causes a warning when the command `mvn compile` is launched. | 0      |
+| **The version of the dependency or property**        | As there is no new dependency, this doesn't apply.           | 0      |
 | **The presence of unit tests**                       | There are not test defined.                                  | 0      |
-| **The coverage of corner cases in unit tests**       | There are not test.                                          | 0      |
+| **The coverage of corner cases in unit tests**       | There is no test defined.                                    | 0      |
 | **The use of Maven properties in the configuration** | The regular properties used.                                 | 3      |
-| **The presence of the runnable jar**                 | There are setting for maven plugin for manage a executable plugin | 0      |
+| **The presence of the runnable jar**                 | There are setting for the maven plugin to manage an executable plugin. But it doesn't execute. | 0      |
 | **The use of parameterized unit tests**              | No test at all.                                              | 0      |
 | **Total**                                            |                                                              | 3      |
 
